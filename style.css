@@ -57,3 +57,8 @@ header.startup h1 {
   border-width: 5px;
   cursor: pointer;
 }
+
+div.clear{
+  display:inline-block;
+  text-align: center;
+}
